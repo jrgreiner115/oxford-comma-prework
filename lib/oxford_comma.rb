@@ -6,6 +6,6 @@ array.join(" and ")
 elsif array.count == 3
 
 ox_com = ", and" + array.pop
-
+string = 
 end
 end
