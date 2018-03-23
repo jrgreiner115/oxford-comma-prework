@@ -5,7 +5,7 @@ if array.count == 1
 array.join(" and ")
 elsif array.count == 3
 
-ox_com = " and " + array.pop
+ox_com = ", and " + array.pop
 string = array.join(", ") << ox_com
 end
 end
